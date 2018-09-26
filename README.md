@@ -183,4 +183,4 @@ Versioning is done in separate commits pushed by committers. We follow semver.
 
 ### Committers
 
-Max You <max_you@intuit.com>
+Max You <max.you@berkeley.edu>
